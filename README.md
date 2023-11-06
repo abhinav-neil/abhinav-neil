@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I'm Abhinav. Self-taught programmer and AI nerd. I'm very enthusiastic about the AI revolution! :heart: I love NLP & deep learning, and I'm also interested in other fields of AI like causality and reinforcement learning. I like coding ML models & neural nets. :smile:
+I'm Neil, a self-taught programmer and AI enthusiast. Highly proficient in Python and its ML/DL ecosystem, I'm deeply passionate about the AI revolution! ❤️ My particular interests lie in NLP & LLMs, and I'm always keen on applying AI to solve real-world challenges. 😄 Currently, I'm completing my Master's in AI at the University of Amsterdam and am eager to bring my technical skills and knowledge to the industry! ✊
 
-I'm currently pursuing my master's in AI @ the University of Amsterdam. I hope to learn a lot more about the field, and prepare myself for an exciting career in this dynamic field. :fist:
+In my free time, I enjoy staying active 🏋️‍♂️, playing football ⚽, and strumming the guitar (acoustic fingerstyle) 🎸.
 
-A few other hobbies: guitar :guitar: (acoustic fingerstyle) and reading :books: (both fiction & non-fiction)
-
-If you have any interesting project ideas, or questions about any of my projects, feel free to hit me up! I'd love to connect & colab. :grinning:
+Got an intriguing project idea or questions about my work? Don't hesitate to reach out! I'm all for connecting and collaborating. 😃
